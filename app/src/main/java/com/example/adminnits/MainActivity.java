@@ -8,7 +8,7 @@ import android.view.View;
 
 import com.google.android.material.card.MaterialCardView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     MaterialCardView uploadNotice;
     MaterialCardView uploadImage;
@@ -26,12 +26,17 @@ public class MainActivity extends AppCompatActivity {
         uploadFaculty = findViewById(R.id.upload_faculty);
         deleteNotice = findViewById(R.id.delete_notice);
 
-        uploadNotice.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
+        uploadNotice.setOnClickListener(this);
+
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()){
+            case R.id.upload_notice:
                 Intent intent = new Intent(MainActivity.this, UploadNotice.class);
                 startActivity(intent);
-            }
-        });
+                break;
+        }
     }
 }
