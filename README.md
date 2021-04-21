@@ -18,6 +18,14 @@ It is the Admin app for My NITS App.
 Java, xml, Android Studio, Git, Firebase Realtime Database, Firebase Storage. 
 
 
+### Screenshots
+
+<img src="ScreenShots/admin_nits_home.jpg" height="650dp"/>      
+<img src="ScreenShots/update_faculty_layout.jpg" height="650dp"/>    <img src="ScreenShots/add_faculty_layout.jpg" height="650dp"/>    
+<img src="ScreenShots/add_notice_layout.jpg" height="650dp"/>   <img src="ScreenShots/delete_notice_layout.jpg" height="650dp"/>      
+<img src="ScreenShots/add_gallery_layout.jpg" height="650dp"/>
+
+
 
 
 
