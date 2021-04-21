@@ -20,10 +20,41 @@ Java, xml, Android Studio, Git, Firebase Realtime Database, Firebase Storage.
 
 ### Screenshots
 
-<img src="ScreenShots/admin_nits_home.jpg" height="650dp"/>      
-<img src="ScreenShots/update_faculty_layout.jpg" height="650dp"/>    <img src="ScreenShots/add_faculty_layout.jpg" height="650dp"/>    
-<img src="ScreenShots/add_notice_layout.jpg" height="650dp"/>   <img src="ScreenShots/delete_notice_layout.jpg" height="650dp"/>      
-<img src="ScreenShots/add_gallery_layout.jpg" height="650dp"/>
+<kbd>
+<img src="ScreenShots/admin_nits_home.jpg" height="650dp"/> 
+</kbd>
+<h3>&ensp; Home Page </h3>
+
+<br/>
+
+<p float="left">
+  <kbd>
+  <img src="ScreenShots/update_faculty_layout.jpg" height="650dp"/>
+  </kbd>
+  &ensp; &ensp;
+   <kbd>
+  <img src="ScreenShots/add_faculty_layout.jpg" height="650dp" /> 
+   </kbd>
+</p>
+<h3>&ensp; Update Faculty Layout &ensp;&ensp;&&ensp;&ensp; Add Faculty Layout </h3>
+
+<br/>
+<br/>
+
+<p float="left">
+  <kbd>
+  <img src="ScreenShots/add_notice_layout.jpg" height="650dp"/>  
+  </kbd>
+  &ensp; &ensp;
+   <kbd>
+  <img src="ScreenShots/delete_notice_layout.jpg" height="650dp"/>  
+   </kbd>
+</p>
+<h3>&ensp; Add Notice Layout &ensp;&ensp;&&ensp;&ensp; Delete Notice Layout </h3>
+
+
+
+
 
 
 
